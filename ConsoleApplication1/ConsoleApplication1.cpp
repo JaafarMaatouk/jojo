@@ -1,7 +1,7 @@
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello every one! i am jaafaar\n";
-    return 0;
+	cout << "I will learn github"; return 0;
 }
